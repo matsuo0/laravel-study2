@@ -1,0 +1,21 @@
+/node_modules
+/public/css # この⾏を追加
+/public/build
+/public/hot
+/public/js # この⾏を追加
+/public/mix-manifest.json # この⾏を追加
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
