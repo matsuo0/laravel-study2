@@ -18,4 +18,13 @@ class ExampleTest extends TestCase
 
         $response->assertStatus(200);
     }
+
+    /** @test */
+    public function これはテストです()
+    {
+        $this->assertTrue(false);
+        $this->assertTrue(true);
+        $this->assertTrue(true);
+    }
+    
 }
